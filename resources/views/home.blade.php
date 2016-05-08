@@ -9,7 +9,7 @@
 	<div class="container">
     <div class="row">
         <div class="col-md-12 text-center">
-            <h1>Welcome to home page</h1>
+            <h1>Welcome to home page.This is home page</h1>
         </div>
     </div>
 </div>
